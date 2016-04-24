@@ -1,0 +1,23 @@
+{
+  "name": "coord",
+  "version": "1.0.0",
+  "description": "no description yet",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuangya/coord.git"
+  },
+  "keywords": [
+    "coord",
+    "gps"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuangya/coord/issues"
+  },
+  "homepage": "https://github.com/zhuangya/coord#readme"
+}
